@@ -33,7 +33,7 @@ Route::get('/a/hapus/{ID}',[jennie::class, 'hapus']);
 Route::post('/a/update',[jennie::class, 'update']);
 Route::get('/a/edit/{ID}',[jennie::class, 'edit']);
 Route::get('/a/cetak_pdf',[jennie::class, 'cetak_pdf']);
-
+//halo
 
 
 
